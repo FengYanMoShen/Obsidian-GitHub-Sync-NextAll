@@ -1,10 +1,9 @@
 {
 	"id": "github-sync",
 	"name": "GitHub Sync",
-	"version": "1.0.5",
-	"minAppVersion": "0.15.0",
-	"description": "Sync vault to personal GitHub.",
-	"author": "Kevin Chin",
-	"authorUrl": "https://kevin.gd/",
-	"isDesktopOnly": true
+	"version": "1.1.0",
+	"minAppVersion": "0.16.0",
+	"description": "Next Sync vault to personal GitHub.",
+	"author": "Qian ZhenHua",
+	"authorUrl": "https://github.com/FengYanMoShen?tab=repositories"
 }
